@@ -1,2 +1,7 @@
 # Display the output
-print("New python file")
+def more_hello():
+    return "New python file"
+
+
+def more_goodbye():
+    return "New bye"
